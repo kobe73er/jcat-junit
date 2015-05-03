@@ -55,9 +55,9 @@
     </prerequisites>
 
     <scm>
-        <connection>scm:git:git://github.com/junit-team/junit.git</connection>
-        <developerConnection>scm:git:git@github.com:junit-team/junit.git</developerConnection>
-        <url>http://github.com/junit-team/junit/tree/master</url>
+        <connection>scm:git:git://github.com/kobe73er/jcat-junit.git</connection>
+        <developerConnection>scm:git:git://github.com/kobe73er/jcat-junit.git</developerConnection>
+        <url>scm:git:git://github.com/kobe73er/jcat-junit.git</url>
       <tag>HEAD</tag>
   </scm>
     <issueManagement>
